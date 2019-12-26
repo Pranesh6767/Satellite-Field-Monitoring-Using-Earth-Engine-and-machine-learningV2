@@ -1,0 +1,45 @@
+ Open loginpage.py file
+ Then to add new user click on new 
+ fill proper data and proceed 
+ then it will redirect to Your web browser 
+ Now bound your field 
+      for that click on one diagonal point on map
+      then click on fist top button 
+      then click on second diagonal point on map 
+      then click on generate button 
+      It will show to graphs
+      Now to download the data in csv format click on right top corner arrow button of chart It will open pop up.
+      Now click on download csv 
+      Similerly download second chart data (rainfall)
+      
+Coming back to python application click on cmd window.... it will open gui window to select csv file 
+Now select spectrum file ee-chart
+Now select another file rainfall file ee-chart (1)
+Wait for few minuites It will export the data to MySQL database
+Now New user have been created. 
+Now use can anlyse the data with Analyse field module
+Now use can anlyse the water resourse with Analyse water module
+
+
+To analyse the data click on import/Analyse button 
+Now repeat steps from 5 to 17 (but now chart names will be changed)
+So import correct files 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+...............
+
+Contact : 
+Pranesh Kulkarni
+Vishwakarma Institute of Technology, Pune
+India
+8956795667(whatsapp only)
+kulkarnipranesh1767@gmail.com
+pranesh.kulkarni18@vit.edu
+
