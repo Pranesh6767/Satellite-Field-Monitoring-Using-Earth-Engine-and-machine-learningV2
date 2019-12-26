@@ -1,0 +1,16 @@
+LINE NO. 662 and 2029
+--- Change file location of chrome application 
+
+Bugs---
+
+Webbrowser and Open File tkinter window opens at same time
+-- in this case first click on import button then open chrome and first download the csv data
+  and then click on import button again and then open Open file tkinter window
+  
+In case btowser doesn't opens :
+
+
+Link for web application :
+  https://kulkarnipranesh1767.users.earthengine.app/view/landsat8datadownloader
+  
+  use this link and download data manually
